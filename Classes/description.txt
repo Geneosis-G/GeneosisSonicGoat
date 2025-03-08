@@ -1,0 +1,37 @@
+Gotta go fast!
+
+The Blue Streak was not enough for you? This is the bigger, better, faster, stronger version of the Sonic Goat!
+
+[b]Any question or problem to use this mod? [url=http://steamcommunity.com/sharedfiles/filedetails/?id=314929396]Click here to read the FAQ.[/url][/b]
+
+[b]FEATURES[/b]
+- Sonic Goat: You can run super fast and charge a homing spin attack
+
+[b]COMMANDS[/b]
+- [b][R]:[/b] Press to start spinning. Release to attack.
+- [b][2] + [3]:[/b] Play/Pause Sonic soundtrack.
+
+[b]GAMEPAD COMMANDS[/b]
+- [b][RT]:[/b] Press to start spinning. Release to attack.
+- [b][LB] + [RB]:[/b] Play/Pause Sonic soundtrack.
+
+[b]CHARACTERISTICS[/b]
+- Your sprint speed is 4 times faster.
+- When spinning:
+-- You can only walk forward (move the camera around to change direction).
+-- If you stop moving you will automatically aim at the closest creature.
+-- Spin longer to get a better attack range (3s to get max range).
+-- Going ragdoll will break the spin.
+
+[b]EASTER EGGS[/b]
+- [spoiler]There is a secret way to replace the original Sonic soundtrack by the SANIC version. To unlock it you have to activate the music in ragdoll mode and going faster than the maximal run speed. Hint: [/spoiler][spoiler]When you release a spin, you will temporarly go super fast.[/spoiler]
+
+[b]KNOWN BUGS[/b]
+- When this mutator is combined with other animals, the spin animation will not be visible, but everything else works fine.
+
+[b]DEV NOTES[/b]
+[quote=About this mod]Another mod suggestion published by DaveA62 when I released the Taz Goat ^^ I didn't really plan to release it when I saw the idea as there is an existing Sonic mutator already in the game (Blue Streak)... But as you may have noticed the existing one is really hard to control and don't let you run super fast while spinning.
+So I decided to make an improved version of this mutator based on the same mechanisms (the spin effect, the color change, the trails etc...) that will be easier to use. I also took the Dash ability of my Ninja Goat to make the spin attack itself a bit more efficient ;)
+When I had that central part working, I added the homing effect which will simply rotate your goat in the direction of the closest target (same detection method as Target Goat). I activated this homing ability only when you are not moving because having it active all the time would make it impossible to move around freely when spinning.
+Finally, as CoolLPDude suggested I added the SANIC soundtrack in the game, but as it's really annoying I also included the original soundtrack and made an easter egg to unlock the SANIC version :p
+[/quote]
